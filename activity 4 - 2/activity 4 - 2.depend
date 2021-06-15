@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569404415 source:d:\stem 11 - jamon\activity 4 - 2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

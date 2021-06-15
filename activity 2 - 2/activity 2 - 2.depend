@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566987689 source:d:\stem 11 - jamon\activity 2 - 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

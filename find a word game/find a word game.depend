@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597534391 source:c:\users\user\desktop\sony 8gb\new folder\stem 11 - jamon\find a word game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

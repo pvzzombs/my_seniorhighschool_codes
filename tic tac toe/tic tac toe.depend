@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570167887 source:d:\stem 11 - jamon\tic tac toe\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<Windows.h>
+

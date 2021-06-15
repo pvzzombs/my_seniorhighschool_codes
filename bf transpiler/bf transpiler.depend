@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565097072 source:c:\users\user\desktop\bf transpiler\main.cpp
+	<iostream>
+	<cstdlib>
+	<new>
+	<string>
+	<fstream>
+
