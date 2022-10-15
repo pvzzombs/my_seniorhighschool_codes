@@ -1,27 +1,27 @@
 #include <iostream>
 
-using namespace std;
+//using namespace std;
 
 int main()
 {
 
-    int a;
-    int b;
+  int a;
+  int b;
 
-    cout << "Relational Sequence of a Number" << endl;
-    cout << "-------------------------------" << endl;
-    cout << "Input first number: ";
-    cin >> a;
-    cout << "Input second number: ";
-    cin >> b;
-    cout << "-------------------------------" << endl;
+  std::cout << "Relational Sequence of a Number" << std::endl;
+  std::cout << "-------------------------------" << std::endl;
+  std::cout << "Input first number: ";
+  std::cin >> a;
+  std::cout << "Input second number: ";
+  std::cin >> b;
+  std::cout << "-------------------------------" << std::endl;
 
-    if(a > b){
-      cout << a << " is greater than " << b << endl;
-    }else if(a < b){
-      cout << a << " is less than " << b << endl;
-    }else {
-      cout << a << " is equal to " << b << endl;
-    }
-    return 0;
+  if(a > b){
+    std::cout << a << " is greater than " << b << std::endl;
+  }else if(a < b){
+    std::cout << a << " is less than " << b << std::endl;
+  }else {
+    std::cout << a << " is equal to " << b << std::endl;
+  }
+  return 0;
 }
